@@ -1,6 +1,7 @@
 {
   "name": "yudi0812/voyager-themes",
   "description": "This hook will add support for Voyager front-end themes",
+  "license": "MIT",
   "require": {
     "larapack/hooks": "~1.0"
   },
